@@ -1,4 +1,5 @@
 Creating a personal portfolio website using HTML, CSS, and JavaScript can be a great way to showcase your skills, projects, and experience to potential employers or clients.
+
 1.HTML Structure:
 Start with the basic HTML structure including <html>, <head>, and <body> tags.
 Create sections for different parts of your portfolio like header, about me, projects, contact, etc.
